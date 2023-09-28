@@ -4,4 +4,4 @@ Projeto de um aplicativo utilizando o pacote GetX, passando por gerenciamento de
 
 ## Imagem
 
-
+![Imagem do projeto](freenlancer.gif)
