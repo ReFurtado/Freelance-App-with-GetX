@@ -1,0 +1,27 @@
+[
+  {
+    "status": "Winner",
+    "text":"Mobile app",
+    "img": "assets/user_6.jpg",
+    "time": "2 dias"
+  },
+  {
+    "status": "Winner",
+    "text":"E-commerce Planner",
+    "img": "assets/user_2.jpg",
+    "time": "3 dias"
+  },
+  {
+    "status": "Winner",
+    "text":"Logo Designer",
+    "img": "assets/user_3.jpg",
+    "time": "3 dias"
+  },
+  {
+    "status": "Winner",
+    "text":"Tester",
+    "img": "assets/user_4.jpg",
+    "time": "4 dias"
+  }
+
+]

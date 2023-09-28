@@ -1,0 +1,36 @@
+[
+  {
+    "name": "André",
+    "title": "Delivery App",
+    "text":"Precisamos de um aplicativo de entrega que o usuário e o entregador possam usá-lo.",
+    "img": "assets/user.jpg",
+    "time": "21 Jullho",
+    "prize": "200"
+  },
+  {
+    "name": "Rafael",
+    "title": "E-commerce App",
+    "text":"Vamos construir um site de comércio eletrônico que entrega produtos para todos os lugares.",
+    "img": "assets/user_2.jpg",
+    "time": "12 Augusto",
+    "prize": "300"
+
+  },
+  {
+    "name": "Eliana",
+    "title": "Logo App",
+    "text":"Precisamos de um logotipo para o nosso aplicativo, no perfil simples e minimalista.",
+    "img": "assets/user_3.jpg",
+    "time": "01 Setembro",
+    "prize": "240"
+
+  },
+  {
+    "name": "Alana",
+    "title": "Yahoo App",
+    "text":"Precisamos de um aplicativo semelhante ao Yahoo, mas com um visual divertido.",
+    "img": "assets/user_4.jpg",
+    "time": "20 Janeiro",
+    "prize": "399"
+  }
+]

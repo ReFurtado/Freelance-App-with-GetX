@@ -1,0 +1,27 @@
+[
+  {
+    "status": "Campeão",
+    "text":"Financeiro App",
+    "img": "assets/img1.png",
+    "time": "2 dias"
+  },
+  {
+    "status": "Campeão",
+    "text":"E-commerce App",
+    "img": "assets/img2.png",
+    "time": "3 dias"
+  },
+  {
+    "status": "Campeão",
+    "text":"Tech app",
+    "img": "assets/img3.jpg",
+    "time": "12 dias"
+  },
+  {
+    "status": "Campeão",
+    "text":"Fashion App",
+    "img": "assets/img4.jpg",
+    "time": "4 dias"
+  }
+
+]
